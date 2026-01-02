@@ -1,7 +1,7 @@
 # 🧠 Visualizador de Self-Attention em transformers (Projeto Educacional)
 
 <p align="center">
-  <img src="assets/banner_attention.png" alt="Banner do Projeto" width="700"/>
+  <img src="assets/banner_attention.png" alt="Banner do Projeto" height="299px" />
 </p>
 
 <p align="center">
@@ -9,6 +9,8 @@
   <img src="https://img.shields.io/badge/PyTorch-2.x-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/HuggingFace-Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
   <img src="https://img.shields.io/badge/Plotly-Interactive-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-Static%20Plots-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-Statistical%20Viz-4C72B0?style=for-the-badge"/>
 </p>
 
 ---
