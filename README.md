@@ -1,4 +1,4 @@
-# 🧠 Transformer Self-Attention Visualizer (Educational Project)
+# 🧠 Visualizador de Self-Attention em transformers (Projeto Educacional)
 
 <p align="center">
   <img src="assets/banner_attention.png" alt="Banner do Projeto" width="700"/>
