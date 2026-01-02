@@ -107,13 +107,12 @@ transformer_attention_tutorial/
 - Separação clara entre métricas de atenção
 - Suporte a modelos em português e multilíngues
 
-## Visualizações   
-### Visualização Estática
+## Visualizações | Estática
 - Heatmaps tradicionais de atenção
 - Ideal para documentação e relatórios
 - Baseada em Matplotlib
 
-# Visualização Interativa (Opcional)
+### Visualização Interativa (Opcional)
 
 Além das visualizações estáticas, o projeto inclui uma visualização interativa simples utilizando Plotly.
 
@@ -184,3 +183,7 @@ priorizando clareza conceitual, honestidade metodológica
 e boas práticas de engenharia de software.*     
 *Ele não busca explicar o funcionamento interno completo de Transformers,
 mas explorar os fundamentos da observação crítica e aprendizado.*
+
+> Nota: o arquivo `requirements.txt` foi gerado automaticamente a partir do ambiente virtual.  
+> Ele inclui dependências diretas e indiretas necessárias para execução completa do projeto.
+
