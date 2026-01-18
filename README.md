@@ -171,11 +171,13 @@ Projeto desenvolvido por uma profissional da área de suprimentos, com interesse
 Todas as análises têm caráter exploratório, didático e não causal.  
 Nenhuma interpretação cognitiva ou semântica é assumida.
 
-## ✨ Autora
-Vitória Alvares dos Santos 
-### Contatos:  
+
+Assinatura do Responsável pelo Projeto:
+**Vitória Alvares dos Santos**
+#### Contatos:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitória-alvares/)  
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:Alvares26Sa@proton.me)  
+
 
 ### Considerações Finais   
 *Este projeto foi desenvolvido com foco educacional,
